@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vqatat.github.io/sitemap.html.gz
+Sitemap: https://vqatat.github.io/app/sitemap.html.gz
+Sitemap: https://vqatat.github.io/assets/sitemap.html.gz
+Sitemap: https://vqatat.github.io/css/sitemap.html.gz
+Sitemap: https://vqatat.github.io/includes/sitemap.html.gz
+Sitemap: https://vqatat.github.io/item/sitemap.html.gz
+Sitemap: https://vqatat.github.io/src/sitemap.html.gz
